@@ -18,7 +18,7 @@ Vamos dividir o aprendizado em Módulos, focando em:
 | Básico de Python | Entender tipos de dados (Inteiros, Strings, Booleanos) e uso de variáveis e expressões. | Escrever um programa simples que calcula uma área (ex: de um círculo) usando variáveis. |
 | Operações com Strings | Manipular texto de forma eficiente (fatiamento, concatenação, métodos). | Criar uma função para formatar um nome completo ou extrair uma sub-string de um texto. |
 
-**Módulo 2: struturas de Dados e Fluxo de Controle**
+**Módulo 2: Estruturas de Dados e Fluxo de Controle**
 | Tópico | Objetivo de Aprendizagem | Ações Práticas (Foco) |
 |----------|----------|----------|
 | Estruturas de Dados | Dominar Listas, Tuplas, Dicionários e Sets, sabendo quando usar cada um. | Criar um dicionário para armazenar dados de um produto (nome, preço, estoque) e uma lista de vários produtos. |
