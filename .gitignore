@@ -2,9 +2,10 @@
 .DS_Store
 *.pyc
 
-# Ignorar pastas de ambientes virtuais (importante se você usa venv ou conda)
+# Ignorar pastas de ambientes virtuais
 venv/
 .conda/
+.venv/
 __pycache__/
 
 .ipynb_checkpoints
