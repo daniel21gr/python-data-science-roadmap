@@ -72,5 +72,3 @@ print(nome_do_projeto)
 print("---")
 
 print("Circunferência é:", circunferencia)
-
-# %%

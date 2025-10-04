@@ -192,5 +192,3 @@ print(status_mouse) # Esperado: OK (10 é maior que o padrão 5)
 # Testando com o limite baixo
 status_teclado = verificar_status_estoque("Teclado", registro_vendas[2]["quantidade"], 8)
 print(status_teclado) # Esperado: ALERTA BAIXO (5 é menor que 8)
-
-# %%

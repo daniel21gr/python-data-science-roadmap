@@ -165,5 +165,3 @@ print(df_carros)
 # 5. Verificando o tipo da coluna 'Ano' (deve ser Int64)
 print("\nVerificação do Tipo de Dado (DTYPE):")
 df_carros.info()
-
-# %%
